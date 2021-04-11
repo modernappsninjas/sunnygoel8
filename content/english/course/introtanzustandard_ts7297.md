@@ -65,6 +65,28 @@ test2_Percent_Correct: 68.00%
 #####  
 test2_Grade_Report_Url: "[Click Here](https://github.com/modernappsninjas/sunnygoel8/blob/main/static/userdata/courses/introtanzustandard_ts7297/grade_report.pr38.test2.md)"
 ##### Pass or fail grades are not provided for individual tests. A passing grade for the course will be based on the cumulative average grade for all tests in the course.  
+#### test3 Summary of Results:  
+test3_Total_Question_Count: 5
+#####  
+test3_Correct_Response_Count: 5
+#####  
+test3_Incorrect_Response_Count: 1
+#####  
+test3_Percent_Correct: 83.00%
+#####  
+test3_Grade_Report_Url: "[Click Here](https://github.com/modernappsninjas/sunnygoel8/blob/main/static/userdata/courses/introtanzustandard_ts7297/grade_report.pr40.test3.md)"
+##### Pass or fail grades are not provided for individual tests. A passing grade for the course will be based on the cumulative average grade for all tests in the course.  
+#### test4 Summary of Results:  
+test4_Total_Question_Count: 13
+#####  
+test4_Correct_Response_Count: 13
+#####  
+test4_Incorrect_Response_Count: 4
+#####  
+test4_Percent_Correct: 76.00%
+#####  
+test4_Grade_Report_Url: "[Click Here](https://github.com/modernappsninjas/sunnygoel8/blob/main/static/userdata/courses/introtanzustandard_ts7297/grade_report.pr39.test4.md)"
+##### Pass or fail grades are not provided for individual tests. A passing grade for the course will be based on the cumulative average grade for all tests in the course.  
   
 ---  
 ### Course Certificate Of Completion
